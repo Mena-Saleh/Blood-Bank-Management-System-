@@ -1,0 +1,316 @@
+D:\Education\Code\C#\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.exe
+D:\Education\Code\C#\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.deps.json
+D:\Education\Code\C#\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.json
+D:\Education\Code\C#\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.dev.json
+D:\Education\Code\C#\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.dll
+D:\Education\Code\C#\Blood Bank Management System\bin\Debug\net5.0-windows\ref\Blood Bank Management System.dll
+D:\Education\Code\C#\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.pdb
+D:\Education\Code\C#\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.AssemblyReference.cache
+D:\Education\Code\C#\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.Home.resources
+D:\Education\Code\C#\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.GenerateResource.cache
+D:\Education\Code\C#\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Code\C#\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfoInputs.cache
+D:\Education\Code\C#\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfo.cs
+D:\Education\Code\C#\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.CoreCompileInputs.cache
+D:\Education\Code\C#\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.dll
+D:\Education\Code\C#\Blood Bank Management System\obj\Debug\net5.0-windows\ref\Blood Bank Management System.dll
+D:\Education\Code\C#\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.pdb
+D:\Education\Code\C#\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.genruntimeconfig.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\bin\Debug\net5.0-windows\Blood Bank Management System.exe
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\bin\Debug\net5.0-windows\Blood Bank Management System.deps.json
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.json
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.dev.json
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\bin\Debug\net5.0-windows\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\bin\Debug\net5.0-windows\ref\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\bin\Debug\net5.0-windows\Blood Bank Management System.pdb
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\obj\Debug\net5.0-windows\Blood_Bank_Management_System.Home.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.GenerateResource.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\obj\Debug\net5.0-windows\Blood Bank Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfoInputs.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfo.cs
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.CoreCompileInputs.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\obj\Debug\net5.0-windows\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\obj\Debug\net5.0-windows\ref\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\obj\Debug\net5.0-windows\Blood Bank Management System.pdb
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\obj\Debug\net5.0-windows\Blood Bank Management System.genruntimeconfig.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\obj\Debug\net5.0-windows\Blood_Bank_Management_System.Properties.Resources.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RegisterForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorControl.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientControl.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.AssemblyReference.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\obj\Debug\net5.0-windows\Blood_Bank_Management_System.LoginForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System - Mena Version\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.exe
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.deps.json
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.json
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.dev.json
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\bin\Debug\net5.0-windows\ref\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.pdb
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.AssemblyReference.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorControl.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.Home.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.LoginForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.Properties.Resources.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientControl.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RegisterForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.GenerateResource.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfoInputs.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfo.cs
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.CoreCompileInputs.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\ref\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.pdb
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.genruntimeconfig.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorUpdateForm.resources
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.exe
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.deps.json
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.json
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.dev.json
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.dll
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\net5.0-windows\ref\Blood Bank Management System.dll
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.pdb
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.AssemblyReference.cache
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorControl.resources
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorForm.resources
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorUpdateForm.resources
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.Home.resources
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.LoginForm.resources
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.Properties.Resources.resources
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientControl.resources
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientForm.resources
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RegisterForm.resources
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.GenerateResource.cache
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfoInputs.cache
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfo.cs
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.CoreCompileInputs.cache
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.dll
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\ref\Blood Bank Management System.dll
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.pdb
+D:\College\4th sem\Data structures\Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.genruntimeconfig.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.exe
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.deps.json
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.json
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.dev.json
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\bin\Debug\net5.0-windows\ref\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.pdb
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorControl.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorUpdateForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.Home.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.LoginForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.Properties.Resources.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientControl.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RegisterForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.GenerateResource.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfoInputs.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfo.cs
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.CoreCompileInputs.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\obj\Debug\net5.0-windows\ref\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.pdb
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.genruntimeconfig.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.AssemblyReference.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System-current\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientUpdateForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.exe
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorControl.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorUpdateForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.Home.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.LoginForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.Properties.Resources.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientControl.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientUpdateForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RegisterForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.GenerateResource.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfoInputs.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfo.cs
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.CoreCompileInputs.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\ref\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.pdb
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.deps.json
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.json
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.dev.json
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\bin\Debug\net5.0-windows\ref\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.pdb
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.genruntimeconfig.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminCredentialsControl.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminManageUsersForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminManageBloodBankForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.AssemblyReference.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\bin\Debug\net5.0-windows\Blood Bank Management System.exe
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\bin\Debug\net5.0-windows\Blood Bank Management System.deps.json
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.json
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.dev.json
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\bin\Debug\net5.0-windows\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\bin\Debug\net5.0-windows\ref\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\bin\Debug\net5.0-windows\Blood Bank Management System.pdb
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminCredentialsControl.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminManageBloodBankForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminManageUsersForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorControl.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorUpdateForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood_Bank_Management_System.Home.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood_Bank_Management_System.LoginForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood_Bank_Management_System.Properties.Resources.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientControl.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientUpdateForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RegisterForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.GenerateResource.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood Bank Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfoInputs.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfo.cs
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.CoreCompileInputs.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\ref\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood Bank Management System.pdb
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood Bank Management System.genruntimeconfig.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System OLD GUI\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.AssemblyReference.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.exe
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.deps.json
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.json
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.dev.json
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\bin\Debug\net5.0-windows\ref\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\bin\Debug\net5.0-windows\Blood Bank Management System.pdb
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminCredentialsControl.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminManageBloodBankForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminManageUsersForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorControl.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorUpdateForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.Home.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.LoginForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.Properties.Resources.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientControl.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientUpdateForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RegisterForm.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.GenerateResource.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfoInputs.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfo.cs
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.CoreCompileInputs.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\ref\Blood Bank Management System.dll
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.pdb
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.genruntimeconfig.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.AssemblyReference.cache
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.CustomMessageBox.resources
+D:\Education\College FCIS\Courses\4th semester\Data structure\Project\Blood Bank Management System\obj\Debug\net5.0-windows\Blood_Bank_Management_System.CustomConfirmationMessage.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\bin\Debug\net5.0-windows\Blood Bank Management System.exe
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\bin\Debug\net5.0-windows\Blood Bank Management System.deps.json
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.json
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.dev.json
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\bin\Debug\net5.0-windows\Blood Bank Management System.dll
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\bin\Debug\net5.0-windows\Blood Bank Management System.pdb
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.AssemblyReference.cache
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminCredentialsControl.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminManageBloodBankForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminManageUsersForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood_Bank_Management_System.CustomConfirmationMessage.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood_Bank_Management_System.CustomMessageBox.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorControl.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorUpdateForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood_Bank_Management_System.Home.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood_Bank_Management_System.LoginForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood_Bank_Management_System.Properties.Resources.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientControl.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientUpdateForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RegisterForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.GenerateResource.cache
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood Bank Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfoInputs.cache
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfo.cs
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood Bank Management System.dll
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\refint\Blood Bank Management System.dll
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood Bank Management System.pdb
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\Blood Bank Management System.genruntimeconfig.cache
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\obj\Debug\net5.0-windows\ref\Blood Bank Management System.dll
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\bin\Debug\net5.0-windows\Blood Bank Management System.exe
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\bin\Debug\net5.0-windows\Blood Bank Management System.deps.json
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.json
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.dev.json
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\bin\Debug\net5.0-windows\Blood Bank Management System.dll
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\bin\Debug\net5.0-windows\Blood Bank Management System.pdb
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.AssemblyReference.cache
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminCredentialsControl.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminManageBloodBankForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminManageUsersForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.CustomConfirmationMessage.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.CustomMessageBox.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorControl.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorUpdateForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.Home.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.LoginForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.Properties.Resources.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientControl.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientUpdateForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RegisterForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.GenerateResource.cache
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood Bank Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfoInputs.cache
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfo.cs
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood Bank Management System.dll
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\refint\Blood Bank Management System.dll
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood Bank Management System.pdb
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\Blood Bank Management System.genruntimeconfig.cache
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-DS-Project-\Source Code\obj\Debug\net5.0-windows\ref\Blood Bank Management System.dll
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\bin\Debug\net5.0-windows\Blood Bank Management System.exe
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\bin\Debug\net5.0-windows\Blood Bank Management System.deps.json
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.json
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\bin\Debug\net5.0-windows\Blood Bank Management System.runtimeconfig.dev.json
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\bin\Debug\net5.0-windows\Blood Bank Management System.dll
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\bin\Debug\net5.0-windows\Blood Bank Management System.pdb
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.AssemblyReference.cache
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminCredentialsControl.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminManageBloodBankForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.AdminManageUsersForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.CustomConfirmationMessage.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.CustomMessageBox.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorControl.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.DonorUpdateForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.Home.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.LoginForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.Properties.Resources.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientControl.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RecepientUpdateForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood_Bank_Management_System.RegisterForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.GenerateResource.cache
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood Bank Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfoInputs.cache
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood Bank Management System.AssemblyInfo.cs
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood Bank Management System.dll
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\refint\Blood Bank Management System.dll
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood Bank Management System.pdb
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\Blood Bank Management System.genruntimeconfig.cache
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Debug\net5.0-windows\ref\Blood Bank Management System.dll

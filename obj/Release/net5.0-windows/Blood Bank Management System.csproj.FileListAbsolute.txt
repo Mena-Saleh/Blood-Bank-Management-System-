@@ -1,0 +1,33 @@
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\bin\Release\net5.0-windows\Blood Bank Management System.exe
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\bin\Release\net5.0-windows\Blood Bank Management System.deps.json
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\bin\Release\net5.0-windows\Blood Bank Management System.runtimeconfig.json
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\bin\Release\net5.0-windows\Blood Bank Management System.runtimeconfig.dev.json
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\bin\Release\net5.0-windows\Blood Bank Management System.dll
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\bin\Release\net5.0-windows\Blood Bank Management System.pdb
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood Bank Management System.csproj.AssemblyReference.cache
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood_Bank_Management_System.AdminCredentialsControl.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood_Bank_Management_System.AdminForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood_Bank_Management_System.AdminManageBloodBankForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood_Bank_Management_System.AdminManageUsersForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood_Bank_Management_System.CustomConfirmationMessage.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood_Bank_Management_System.CustomMessageBox.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood_Bank_Management_System.DonorControl.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood_Bank_Management_System.DonorForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood_Bank_Management_System.DonorUpdateForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood_Bank_Management_System.Home.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood_Bank_Management_System.LoginForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood_Bank_Management_System.Properties.Resources.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood_Bank_Management_System.RecepientControl.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood_Bank_Management_System.RecepientForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood_Bank_Management_System.RecepientUpdateForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood_Bank_Management_System.RegisterForm.resources
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood Bank Management System.csproj.GenerateResource.cache
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood Bank Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood Bank Management System.AssemblyInfoInputs.cache
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood Bank Management System.AssemblyInfo.cs
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood Bank Management System.dll
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\refint\Blood Bank Management System.dll
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood Bank Management System.pdb
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\Blood Bank Management System.genruntimeconfig.cache
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Source Code\obj\Release\net5.0-windows\ref\Blood Bank Management System.dll

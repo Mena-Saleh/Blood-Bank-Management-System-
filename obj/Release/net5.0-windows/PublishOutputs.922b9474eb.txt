@@ -1,0 +1,5 @@
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Blood Bank Management System.exe
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Blood Bank Management System.dll
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Blood Bank Management System.deps.json
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Blood Bank Management System.runtimeconfig.json
+C:\Users\Mena\Desktop\Blood-Bank-Management-System-\Blood Bank Management System.pdb
